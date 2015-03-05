@@ -1,2 +1,2 @@
 require('./InsertionSort.spec');
-require('./MergeSort.spec');
+require('./QuickSort.spec');
